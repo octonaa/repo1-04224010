@@ -5,3 +5,4 @@ while i<= 1000:
 
 
     # gatauu
+    # bening
